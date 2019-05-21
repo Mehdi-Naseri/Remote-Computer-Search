@@ -1,0 +1,30 @@
+﻿<Window x:Class="RemoteComputerSystemInformation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Remote Computer System Information" Height="438.409" Width="773.095" Icon="System.ico" Loaded="Window_Loaded_1">
+    <Grid>
+        <Button x:Name="button1" Content="Recieve" HorizontalAlignment="Left" Margin="129,117,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <TextBox x:Name="textboxIP" HorizontalAlignment="Left" Height="23" Margin="115,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171"/>
+        <TextBox x:Name="textboxUsername" HorizontalAlignment="Left" Height="23" Margin="115,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171"/>
+        <PasswordBox x:Name="passwordbox1" HorizontalAlignment="Left" Margin="115,65,0,0" VerticalAlignment="Top" Width="171"/>
+        <ComboBox x:Name="combobox1" HorizontalAlignment="Left" Margin="54,90,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label Content="IP:" HorizontalAlignment="Left" Margin="69,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Username:" HorizontalAlignment="Left" Margin="49,35,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="51,61,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="listboxResult" Margin="10,149,0,5" HorizontalAlignment="Left" Width="313"/>
+        <Button x:Name="buttonFindFiles" Content="Find" HorizontalAlignment="Left" Margin="443,119,0,0" VerticalAlignment="Top" Width="75" Click="buttonFindFiles_Click"/>
+        <Button x:Name="ButtonSaveFileDescription" Content="Export" HorizontalAlignment="Left" Margin="568,119,0,0" VerticalAlignment="Top" Width="75" Click="ButtonSaveFileDescription_Click"/>
+        <DataGrid x:Name="DataGridFiles" Margin="344,149,7,5"/>
+        <TextBox x:Name="textBoxQueryString" HorizontalAlignment="Left" Height="54" Margin="351,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404"/>
+        <TextBox x:Name="textBoxFileSize" HorizontalAlignment="Left" Height="23" Margin="408,6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="textBoxFileSize_PreviewTextInput" TextChanged="textBoxFileProperties_TextChanged"/>
+        <TextBox x:Name="textBoxFileName" HorizontalAlignment="Left" Height="23" Margin="409,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBoxFileProperties_TextChanged"/>
+        <TextBox x:Name="textBoxExtension" HorizontalAlignment="Left" Height="23" Margin="638,6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117" TextChanged="textBoxFileProperties_TextChanged"/>
+        <Label x:Name="LabelSize" Content="Size &gt;" HorizontalAlignment="Left" Margin="360,4,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxDrive" HorizontalAlignment="Left" Height="23" Margin="638,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117" TextChanged="textBoxFileProperties_TextChanged"/>
+        <Label x:Name="LabelName" Content="Name" HorizontalAlignment="Left" Margin="360,32,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.679,1.218"/>
+        <Label HorizontalAlignment="Left" Margin="601,12,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LabelExtentsion" Content="Extension" HorizontalAlignment="Left" Margin="574,4,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LabelDrive" Content="Drive" HorizontalAlignment="Left" Margin="574,32,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.679,1.218"/>
+
+    </Grid>
+</Window>

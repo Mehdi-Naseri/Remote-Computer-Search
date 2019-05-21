@@ -1,0 +1,175 @@
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+d:\users\mehdiadmin\documents\visual studio 2012\Projects\RemoteComputerSystemInformation\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.2\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+F:\_2012-11\MehdiProgramming\Remote Server System Information\RemoteComputerSystemInformation_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.0\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.0\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.0\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+F:\_SyncHD\Mehdi Programming\Mehdi Projects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+I:\_Programming\__MehdiProjects\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.0.1.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+I:\__MehdiProjects_2012-12\WPF\Remote Computer System Information\RemoteComputerSystemInformation_0.1.0.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+D:\Users\Administrator\Desktop\Remote Computer Files\RemoteComputerFiles_0.0.0.2\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.3\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.4\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe.config
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.exe
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.pdb
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.exe
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSystemInformation.pdb
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation_MarkupCompile.cache
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.g.resources
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.Properties.Resources.resources
+G:\_2013-06-14\WPF\Remote Computer Files\RemoteComputerFiles_0.0.0.5\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csprojResolveAssemblyReference.cache
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\MainWindow.baml
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\MainWindow.g.cs
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\App.g.cs
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSystemInformation.csproj.GenerateResource.Cache
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSearch.exe.config
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSearch.exe
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\bin\Debug\RemoteComputerSearch.pdb
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSearch_MarkupCompile.cache
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSearch.g.resources
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSearch.Properties.Resources.resources
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSearch.exe
+G:\_2013-06-14\WPF\Remote Computer Searcher\RemoteComputerFiles_0.0.1.1\RemoteComputerSystemInformation\obj\Debug\RemoteComputerSearch.pdb
